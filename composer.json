@@ -1,6 +1,7 @@
 {
-    "name": "pbmedia/laravel-ffmpeg",
+    "name": "hrauvc/laravel-ffmpeg",
     "description": "FFMpeg for Laravel",
+    "version": "1.0.0",
     "keywords": [
         "laravel",
         "laravel-ffmpeg",
